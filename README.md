@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-I am a **B.Tech Information Technology** undergraduate (`2026`) at **Vignan's Foundation for Science, Technology & Research (VFSTR)** with a strong foundation in **Full Stack Web Development** and hands-on engineering experience in **Machine Learning & Computer Vision**.
+I am a **M.Tech COMPUTER SCIENCE ENGINEERING** undergraduate (`2028`) at **Vignan's Foundation for Science, Technology & Research (VFSTR)** with a strong foundation in **Full Stack Web Development** and hands-on engineering experience in **Machine Learning & Computer Vision**.
 
 I specialize in bridging clean, responsive user experiences with robust backend architectures and applied AI—ranging from **React.js / Node.js / PHP** web platforms backed by **MySQL** and **MongoDB** to real-time **NLP speech pipelines** (`>92%` recognition accuracy, `<1.2s` latency) and **ResNet50 computer vision models** (`91%` top-1 accuracy). As a proactive and collaborative engineer, I focus on writing clean, maintainable code that solves practical problems efficiently.
 
